@@ -69,16 +69,7 @@ I work across **software and hardware**, with practical experience in **electron
 
 </div>
 
----
 
-<div align="center">
-
-## 📊 GitHub Stats
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=doffy2103&show_icons=true&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   
