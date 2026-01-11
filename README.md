@@ -55,7 +55,7 @@ I work across **software and hardware**, with practical experience in **electron
 ## 🔗 Let's Connect
 <p align="center">
   <a href="mailto:doffyzakodirov@gmail.com">📧 Email</a> |
-  <a href="https://github.com/yourusername">💻 GitHub</a> |
+  <a href="https://github.com/doffy2103">💻 GitHub</a> |
 </p>
 
 ---
