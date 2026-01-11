@@ -18,7 +18,7 @@ I'm a young Cybersecurity & Electronics Developer focused on **ethical hacking**
 I work across **software and hardware**, with practical experience in **electronics, microcontrollers, Arduino/ESP platforms**, and secure integration between software and hardware components.
 
 - 🌍 Based in **Russia**
-- ✉️ Contact: [doffyzakodirov@gmail.com](mailto:doffyzakodirov@gmail.com) ((Warning: Unauthorized emails may be used as test data for my spam filters))
+- ✉️ Contact: [doffyzakodirov@gmail.com](mailto:doffyzakodirov@gmail.com) 
 - 🧠 Currently learning: **Developing my own cybersecurity tools**
 - 👥 Open to collaborate on projects in **cybersecurity, electronics, and more**
 - 💬 Fun fact: I'm secretly **Spider-Man** 🕷️ (Shhh… don't tell anyone!)
