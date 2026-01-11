@@ -76,7 +76,7 @@ I work across **software and hardware**, with practical experience in **electron
 </div>
 
 <p align="center">
-  <sub><em>Status: 200 OK | Caffeine level: Critical</em></sub>
+  <sub><em>>> SYSTEM_READY >> USER: ROOT >> MODE: DEBUG</em></sub>
 </p>
 
 <div align="center">
