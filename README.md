@@ -83,16 +83,16 @@ I work across **software and hardware**, with practical experience in **electron
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+and+a+healthy+dose+of+%E2%98%95%EF%B8%8F;By+Roman+%7C+Probably+fixing+a+bug+right+now;'It+works+on+my+machine'+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Not+a+bug%2C+it's+a+feature!+%F0%9F%90%9B;Powered+by+caffeine+and+questionable+decisions+%E2%98%95%EF%B8%8F%F0%9F%A4%94;Making+things+blink+since+2005+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <sub><em>Disclaimer: 99% of my time is spent debugging. The other 1% is spent wondering why it worked yesterday.</em></sub>
+  <sub><em>Pro tip: 99% of my time is spent debugging. The other 1% is spent adding "features" 🐞✨</em></sub>
 </p>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=doffy2103&color=blueviolet&style=flat-square&label=People+who+saw+this)
+  ![Profile Views](https://komarev.com/ghpvc/?username=doffy2103&color=blueviolet&style=flat-square&label=Brave+souls+who+visited)
   
 </div>
