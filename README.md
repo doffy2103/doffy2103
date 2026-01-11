@@ -73,7 +73,7 @@ I work across **software and hardware**, with practical experience in **electron
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=F71010&background=000000&center=true&vCenter=true&width=500&height=50&lines=Access+Granted.+Root+Detected.;Encrypting+reality...;Firewall+bypassed.%20Again." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Voltage+OK.+Current+flowing.;PCB+design+in+progress.;Firmware+upload+complete." alt="Typing SVG" />
 
 </div>
 
