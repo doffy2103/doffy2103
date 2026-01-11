@@ -69,11 +69,11 @@ I work across **software and hardware**, with practical experience in **electron
 
 </div>
 
-
+---
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Not+a+bug%2C+it's+a+feature!+%F0%9F%90%9B;Powered+by+caffeine+and+questionable+decisions+%E2%98%95%EF%B8%8F%F0%9F%A4%94;Debugging+is+my+superpower+%F0%9F%A7%A1%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=F71010&background=000000&center=true&vCenter=true&width=500&height=50&lines=Access+Granted.+Root+Detected.;Encrypting+reality...;Firewall+bypassed.%20Again." alt="Typing SVG" />
 
 </div>
 
