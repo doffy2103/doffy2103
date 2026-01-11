@@ -74,7 +74,24 @@ I work across **software and hardware**, with practical experience in **electron
 <div align="center">
 
 ## 📊 GitHub Stats
-Чтобы подключить статистику, скопируйте строку ниже в свой README. Просто замените `username=doffy2103` на свой GitHub username. Вы можете изменить тему, указав параметр `&theme=NAME` (например, `&theme=radical`, `&theme=dark`, `&theme=merko`)[citation:1].
+![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=doffy2103&show_icons=true&theme=radical)
 
-```markdown
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=doffy2103&show_icons=true&theme=radical)
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Not+a+bug%2C+it's+a+feature!+%F0%9F%90%9B;Powered+by+caffeine+and+questionable+decisions+%E2%98%95%EF%B8%8F%F0%9F%A4%94;Debugging+is+my+superpower+%F0%9F%A7%A1%EF%B8%8F" alt="Typing SVG" />
+
+</div>
+
+<p align="center">
+  <sub><em>Debugging: the art of turning "it doesn't work" into "it's a feature!" 🔧✨</em></sub>
+</p>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=doffy2103&color=blueviolet&style=flat-square&label=Brave+souls+who+visited)
+  
+</div>
