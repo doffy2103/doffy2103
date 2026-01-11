@@ -76,7 +76,7 @@ I work across **software and hardware**, with practical experience in **electron
 </div>
 
 <p align="center">
-  <sub><em>Debugging: the art of turning "it doesn't work" into "it's a feature!" 🔧✨</em></sub>
+  <sub><em>Status: 200 OK | Caffeine level: Critical</em></sub>
 </p>
 
 <div align="center">
