@@ -73,7 +73,7 @@ I work across **software and hardware**, with practical experience in **electron
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Voltage+OK.+Current+flowing.;PCB+design+in+progress.;Firmware+upload+complete." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=00FF41&background=0D111700&center=true&vCenter=true&width=500&lines=>>>_INITIATE_SYS_HACK.SH;>>>_BYPASSING_SECURITY...;>>>_ACCESS_CODE:********" alt="Typing SVG" />
 
 </div>
 
