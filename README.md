@@ -1,4 +1,4 @@
-<h1 align="center">Yo! What's up? 👋 I'm Roman</h1>
+<h1 align="center"> Yo! What's up? 👋 I'm Roman</h1>
 <p align="center">
   <em>Cybersecurity & Electronics Developer</em>
 </p>
@@ -13,61 +13,52 @@
 
 ---
 
-## 🌐 About Me
-I'm a young Cybersecurity & Electronics Developer focused on **ethical hacking** and **system security**.
-I work across **software and hardware**, with practical experience in **electronics, microcontrollers, Arduino/ESP platforms**, and secure integration between software and hardware components.
+## About Me
+
+I work in **cybersecurity** and **electronics development**, focusing on ethical hacking and system security. I build both software tools and hardware projects using microcontrollers and various platforms.
 
 - 🌍 Based in **Russia**
-- ✉️ Contact: [doffyzakodirov@gmail.com](mailto:doffyzakodirov@gmail.com) 
-- 🧠 Currently learning: **Developing my own cybersecurity tools**
-- 👥 Open to collaborate on projects in **cybersecurity, electronics, and more**
-- 💬 Fun fact: I'm secretly **Spider-Man** 🕷️ (Shhh… don't tell anyone!)
+- ✉️ Contact: **doffyzakodirov@gmail.com**
+- 🧠 Currently working on custom cybersecurity tools
+- 🤝 Open to collaborate on cybersecurity and electronics projects
+- 🕷️ Fun fact: Secretly Spider-Man (don't tell anyone)
 
 ---
 
-## 🛠️ My Toolbox
+## Tech Stack
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="45" height="45" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="45" height="45" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-dark.svg" alt="VS Code" title="VS Code" width="45" height="45" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="45" height="45" />
-  </a>
-  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="45" height="45" />
-  </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali" title="Kali Linux" width="45" height="45" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="45" height="45" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="45" height="45" />
-  </a>
-</p>
+**Languages & Tools**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Systems & Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🔗 Connect With Me
+## Contact
 
-<div align="center">
-  
-| | |
-|:---:|:---:|
-| **📧 Email** | **💻 GitHub** |
-| [doffyzakodirov@gmail.com](mailto:doffyzakodirov@gmail.com) | [@doffy2103](https://github.com/doffy2103) |
-| <sub>*For serious stuff*</sub> | <sub>*For my coding adventures*</sub> |
-| <img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"> | <img src="https://img.icons8.com/fluent/48/000000/github.png" width="30"> |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:doffyzakodirov@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/doffy2103">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
